@@ -1,0 +1,172 @@
+.container1{
+    width: 100%;
+    height: 75px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    background-color: purple;
+}
+#lila{
+    width: 100px;
+    height: 40px;
+    background-color: aqua;
+    
+    list-style: none;
+    margin: 10px;
+}
+.container2{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+}
+#sarga{
+    width: 70%;
+    height: 500px;
+    background-color: yellow;
+}
+#zold{
+    width: 30%;
+    height: 500px;
+    background-color: green;
+}
+
+
+
+
+
+
+.container3{
+    width: 100%;
+    height: 75px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    background-color: purple;
+    margin-top: 300px;
+}
+#lila1{
+    width: 100px;
+    height: 40px;
+    background-color: aqua;
+    margin-left: 70px;
+    list-style: none;
+    
+}
+#lila2{
+    width: 100px;
+    height: 40px;
+    background-color: aqua;
+    margin-left: 20px;
+    list-style: none;
+    
+}
+#lila3{
+    width: 100px;
+    height: 40px;
+    background-color: aqua;
+    margin-left: 20px;
+    list-style: none;
+    
+}
+#lila4{
+    width: 100px;
+    height: 40px;
+    background-color: aqua;
+    margin-left: 20px;
+    list-style: none;
+    
+}
+.container4{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+}
+#sarga2{
+    width: 30%;
+    height: 600px;
+    background-color: green;
+    margin-bottom: 10pt;
+    margin-left: 50pt;
+    margin-top: 10pt;
+    margin-right: 10pt;
+}
+#zold2{
+    width: 70%;
+    height: 600px;
+    background-color: yellow;
+    margin-top: 10pt;
+    margin-right: 50px;
+}
+.container5{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+#szurke{
+    background-color: grey;
+    height: 100px;
+    width: 100%;
+    margin-left: 40pt;
+    margin-right: 50px;
+    margin-top: 95pt;
+}
+
+
+
+.container6{
+    width: 100%;
+    height: 600px;
+    background-color: bisque;
+}
+.kek{
+    width: 500px;
+    height: 80px;
+    background-color: aqua;
+}
+.container7{
+    display: flex;
+    flex-direction: row;
+    width: 500px;
+    height: 350px;
+}
+.sarga3{
+    width: 80px;
+    height: 350px;
+    background-color: orange;
+}
+.piros{
+    width: 350px;
+    height: 350px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: red;
+}
+.lila5{
+    width: 80px;
+    height: 350px;
+    background-color: purple;
+}
+.container8{
+    width: 500px;
+    height: 80px;
+    background-color: blue;
+}
+#fekete{
+    height: 60px;
+    width: 60px;
+    background-color: black;
+    bottom: 50px;
+    right: 80px;
+    position: absolute;
+}
+.container9{
+    position: absolute;
+    height: 600px;
+    width: 100%;
+}
